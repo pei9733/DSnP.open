@@ -1,0 +1,6 @@
+cirr -r tests.fraig/sim10.aag
+cirsim -r 
+cirfraig
+cirw -O tmp/reffraig.aag
+cirmiter tests.fraig/sim10.aag tmp/reffraig.aag
+

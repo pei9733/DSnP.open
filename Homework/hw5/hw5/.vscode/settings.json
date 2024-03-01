@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "__string": "cpp",
+        "filesystem": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp"
+    }
+}

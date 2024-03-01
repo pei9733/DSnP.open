@@ -1,14 +1,13 @@
 #include <iostream>
 #include <unordered_map>
+#include <string>
+#include <unistd.h>
+#include <fstream>
 using namespace std;
 
-int main(void)
+int main()
 {
-  unordered_map<string, int>	fruits;
-
-  fruits.insert({"apple", 3});
-  fruits.insert({"kiwi", 5});
-  
-  cout<<"program tested successfully !!"<<endl;
-  return 0;
+  char arr[10];
+  cout << hex << (void *)(arr + 1) << endl;
 }
+// What’s in file “ttt”? What’s the output??
